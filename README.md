@@ -31,9 +31,7 @@
 
 <h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'www.linkedin.com/in/alan-navarro-189259218'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/alannvrro/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
-
+<a href = 'www.linkedin.com/in/alan-navarro-189259218'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
 
