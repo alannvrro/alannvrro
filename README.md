@@ -1,4 +1,41 @@
-## Hi there 👋
+<h1 align="center"><b>¡Hola! Bienvenido a mi espacio de código </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+Software;Programador+Competitivo;Desarrollo+Full+Stack;Aprendizaje+Constante"></a>
+</p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 Mi nombre es Alan Navarro, soy Ingeniero en Desarrollo y Gestión de Software enfocado en crear soluciones innovadoras
+  
+💻 Constante aprendizaje en tecnologias, creando soluciones a través de código.
+
+👨🏻‍💻 Apasionado por el desarrollo web y siempre listo para nuevos retos.
+
+📫 Contacto: **alannavarro07@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cs,ts,java,kotlin,php,css,html,nodejs,express,dotnet,jquery,npm,bootstrap,react,angular,visualstudio,figma,androidstudio,git,github,postman,vscode,stackoverflow,mysql,mongodb,firebase&perline=20" />
+  </a>
+</p>
+<br>
+
+
+
+
+
+
+
+
+
 
 <!--
 **alannvrro/alannvrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
