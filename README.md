@@ -68,7 +68,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github&perline=20" />
   </a>
 </p>
