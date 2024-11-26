@@ -23,7 +23,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,cs,ts,java,kotlin,php&perline=20" />
   </a>
 </p>
@@ -32,7 +32,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css&perline=20" />
   </a>
 </p>
@@ -41,7 +41,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,jquery,npm,bootstrap,react,angular&perline=20" />
   </a>
 </p>
@@ -50,7 +50,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=20" />
   </a>
 </p>
@@ -59,7 +59,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,stackoverflow&perline=20" />
   </a>
 </p>
@@ -77,7 +77,7 @@
 <p align="left">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=figma&perline=20" />
   </a>
 </p>
